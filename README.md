@@ -17,11 +17,11 @@
 ### Setting up the website:
 
 - Downloading the website from the link
-  ```bash
-  wget https://www.free-css.com/assets/files/free-css-templates/download/page290/brainwave.zip
-  unzip brainwave.zip
-  ls
-
+```
+wget https://www.free-css.com/assets/files/free-css-templates/download/page290/brainwave.zip
+unzip brainwave.zip
+ls
+```   
 - Installing Apache web server and checking its status
 ```
 yum install httpd
